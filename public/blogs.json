@@ -1,0 +1,45 @@
+[
+    {
+      "id": "123",
+      "cover": "https://i.postimg.cc/bvMfn1sV/1.jpg",
+      "title": "Awesome Es6 features you should know",
+      "author": "John Doe",
+      "author_img": "https://i.postimg.cc/WbjL0N1V/boy1.png",
+      "posted_date": "2024-03-13",
+      "reading_time": 10,
+      "hashtags": ["JavaScript", "Web", "ES6"]
+    },
+
+    {
+      "id": "345",
+      "cover": "https://i.postimg.cc/mrKKkR50/2.png",
+      "title": "Mystery Manor",
+      "author": "Jane Smith",
+      "author_img": "https://i.postimg.cc/wvm8Q3Nq/boy2.jpg",
+      "posted_date": "2024-03-14",
+      "reading_time": 15,
+      "hashtags": ["mystery", "thriller", "DetectiveJane"]
+    },
+
+    {
+      "id": "678",
+      "cover": "https://i.postimg.cc/NjJ3hR7G/3.png",
+      "title": "Sci-Fi Odyssey",
+      "author": "Emma Watson",
+      "author_img": "https://i.postimg.cc/prfw37k3/girl1.jpg",
+      "posted_date": "2024-03-15",
+      "reading_time": 12,
+      "hashtags": ["scifi", "space", "future"]
+    },
+    {
+      "id": "910",
+      "cover": "https://i.postimg.cc/135kYvFY/4.jpg",
+      "title": "Historical Journey",
+      "author": "Emily White",
+      "author_img": "https://i.postimg.cc/T1v87Gjr/girl2.jpg",
+      "posted_date": "2024-03-16",
+      "reading_time": 8,
+      "hashtags": ["history", "journey", "past"]
+    }
+  ]
+  
